@@ -604,6 +604,14 @@ video {
   width: 100%;
 }
 
+.w-\[90\%\] {
+  width: 90%;
+}
+
+.w-\[0\%\] {
+  width: 0%;
+}
+
 .items-center {
   align-items: center;
 }
